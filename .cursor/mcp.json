@@ -1,0 +1,16 @@
+{
+    "mcpServers": {
+        "docs2prompt": {
+            "command": "/Users/andrewmelbourne/.local/bin/uv",
+            "args": [
+                "--directory",
+                "/Users/andrewmelbourne/Software-Projects/docs2prompt-mcp/src",
+                "run",
+                "main.py"
+            ],
+            "env": {
+                "GITHUB_TOKEN": ""
+            }
+        }
+    }
+}

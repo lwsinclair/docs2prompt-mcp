@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/melbourneandrew-docs2prompt-mcp-badge.png)](https://mseep.ai/app/melbourneandrew-docs2prompt-mcp)
+
 # MCP Server for docs2prompt
 
 [![](https://badge.mcpx.dev?type=server 'MCP Server')](https://modelcontextprotocol.io/introduction)
